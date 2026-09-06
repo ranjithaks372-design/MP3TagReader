@@ -37,3 +37,19 @@ Example:
 
 ```bash
 ./mp3_tag_reader -a "New Artist" input.mp3 output.mp3
+## Developed By
+
+**Ranjitha K S**
+
+Electronics and Communication Engineering (ECE)  
+Interested in **Embedded Systems, C Programming, and Linux**
+
+### Project Developed Using
+
+- C Programming
+- Linux
+- GCC Compiler
+- ID3v2.3 Tag Format
+- File Handling
+- Command-Line Arguments
+
