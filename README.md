@@ -42,7 +42,6 @@ Example:
 **Ranjitha K S**
 
 Electronics and Communication Engineering (ECE)  
-Interested in **Embedded Systems, C Programming, and Linux**
 
 ### Project Developed Using
 
